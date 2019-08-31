@@ -8,7 +8,7 @@ insert into schools values ('gayathri','independent','co_educational''junction')
 
 insert into schools values ('ramakrishna','independent','co_educational''junction');
 
-insert into schools values ('arrs','independent','co_educational''omalur');
+insert into values
 
 commit;
 
